@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['ur number'] //ur owner number
-global.ownername = "ur name"
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['6281347153980'] //ur owner number
+global.ownername = "iky"
+global.ytname = "Gapunya" //ur yt chanel name
+global.socialm = "GitHub: ikybotzz" //ur github or insta name
+global.location = "Indonesia, cndna,d22" //ur location
 
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
+global.botname = "mcbotzz" //ur bot name
+global.websitex = "gpunya" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "🦄Dream Guy Xeon"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ['ur number'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
-global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
+global.ownertag = ['iky'] //ur owner tag
+global.ownernummenu = ['6281347153980'] //ur owner number in menu and all
+global.watermark = "iky bot." //ur watermark
+global.botscript = "kepo?"
+global.linkz1 = "minta owner"
+global.linkz2 = "minta owner"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -90,27 +90,27 @@ global.ntilink = []
 
 //omther
 global.lolhuman = "KaysaS"
-global.sessionName = "session"
+global.sessionName = "iky"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: 'Done✓',
-    admin: 'This feature is only for admins!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This feature is only for owner',
-    group: 'This feature is only for groups!',
-    private: 'This feature is only for private chats!',
-    bot: 'This feature is only for bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
+    admin: 'fitur hanya bisa di gunakan admin!',
+    botAdmin: 'Bot harus menjadi admin!',
+    owner: 'fitur hanya bisa di gunakan owner',
+    group: 'fitur hanya bisa di gunakan di grup!',
+    private: 'fitur hanya bisa di gunakan saat private chat!',
+    bot: 'fitur hanya bisa di gunakan bot',
+    wait: 'sedang proses...',
+    linkm: 'link mana?',
     error: 'Error!',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    ban: 'kamu telah di banned, kamu mau di unbanned?, chat owner.',
+    nsfw: 'fitur tidak aktif, chat admin kalo mau nsfw mode on',
+    banChat: 'bot sudah di banned dari grup, please chat owner untuk unbanned'
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 2,
+    free: 100,
     monayawal: 1000
 }
    global.rpg = {
