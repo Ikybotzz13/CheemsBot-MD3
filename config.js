@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['ur number'] //ur owner number
-global.ownername = "ur name"
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['6281337153980'] //ur owner number
+global.ownername = "IKY"
+global.ytname = "GADA ZEYENG" //ur yt chanel name
+global.socialm = "GITHUB: ikybotz13" //ur github or insta name
+global.location = "Indonesia" //ur location
 
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
+global.botname = "Kybotz" //ur bot name
+global.websitex = "https://github.com/ikybotz13" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
-global.themeemoji = "🐶"
-global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ['ur number'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
-global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
+global.packname = "Ky Sticker\n\n\n\n\n\n\n🦄🦄🦄 "
+global.author = "🦄Ikyganteng"
+global.themeemoji = "🗿"
+global.reactmoji = "🥰"
+global.ownertag = ['6281347153980'] //ur owner tag
+global.ownernummenu = ['6281347153980'] //ur owner number in menu and all
+global.watermark = "yang baca ganteng." //ur watermark
+global.botscript = "eitss"
+global.linkz1 = "blum punya"
+global.linkz2 = "blum punya"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -90,28 +90,28 @@ global.ntilink = []
 
 //omther
 global.lolhuman = "KaysaS"
-global.sessionName = "session"
+global.sessionName = "sessot"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: 'Done✓',
-    admin: 'This feature is only for admins!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This feature is only for owner',
-    group: 'This feature is only for groups!',
-    private: 'This feature is only for private chats!',
-    bot: 'This feature is only for bot',
+    admin: 'fitur cuma bisa di gunakan admin_-!',
+    botAdmin: 'bot harus jadi admin zeyeng',
+    owner: 'fitur ini untuk owner, bukan untuk lu',
+    group: 'fitur cuma bisa di gynakan di grup!',
+    private: 'private chat dulu baru bisa!',
+    bot: 'cuma bisa di gunakan bot',
     wait: 'In process...',
-    linkm: 'Where is the link?',
-    error: 'Error!',
+    linkm: 'mana link ny zeyeng?',
+    error: 'error zeyeng!',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 2,
-    monayawal: 1000
+    free: 150,
+    monayawal: 2500
 }
    global.rpg = {
    darahawal: 100,
